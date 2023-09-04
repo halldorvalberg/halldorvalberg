@@ -1,8 +1,17 @@
-- 👋 Hi, I’m Halldór valberg
-- 👀 I’m interested in creating applications and software that is both designed with aesthetic in mind and accessability. 
-- 🌱 I’m currently an undergrad B.Sc in Computer Science at Reykjavik University 
-- 📫 How to reach me 
-  -   Email: halldor.valberg@hotmail.com
+# Halldór Valberg
+
+👋 Hi, I'm Halldór Valberg, a passionate software developer with a focus on creating applications that combine aesthetics and accessibility.
+
+## About Me
+
+- 👀 I'm interested in designing and developing software that not only looks good but is also user-friendly and accessible to all.
+- 🎓 I'm a graduate with a B.Sc in Computer Science from Reykjavik University.
+
+## Contact Information
+
+You can reach me via email:
+
+- 📧 Email: halldor.valberg@hotmail.com
 
 <!---
 halldorvalberg/halldorvalberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
