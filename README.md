@@ -1,11 +1,16 @@
 # Halldór Valberg
 
-👋 Hi, I'm Halldór Valberg, a passionate software developer with a focus on creating applications that combine aesthetics and accessibility.
+👋 Hi there! I'm Halldór Valberg, a software developer and co-founder of Slóði, where I focus on building accessible and visually cohesive digital solutions. I’m passionate about creating applications that combine aesthetics, usability, and thoughtful design.
 
-## About Me
+About Me
 
-- 👀 I'm interested in designing and developing software that not only looks good but is also user-friendly and accessible to all.
-- 🎓 I'm a graduate with a B.Sc in Computer Science from Reykjavik University.
+💡 I specialize in developing software that’s elegant, practical, and inclusive.
+
+🧭 As a co-founder and project manager at Slóði, I help guide the design and development of tools that support creativity, collaboration, and accessibility.
+
+🎓 I hold a B.Sc. in Computer Science from Reykjavik University.
+
+🧠 I’m particularly interested in clean architecture, user-centered design, and building systems that make complex workflows feel simple.
 
 ## Contact Information
 
